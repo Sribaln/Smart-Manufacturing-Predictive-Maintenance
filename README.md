@@ -63,7 +63,7 @@ Dimensionality reduction techniques can be used to reduce the number of features
 ## 📁 Project Structure
 
 ```text
-Smart Manufacturing Predictive Maintanance/
+Smart-Manufacturing-Predictive-Maintenance/
 │
 ├── app/
 │   └── Application files
@@ -77,18 +77,12 @@ Smart Manufacturing Predictive Maintanance/
 │   └── Trained machine learning models
 │
 ├── notebooks/
-│   ├── classification_ai4i2020.ipynb
-│   ├── regression_1.ipynb
-│   └── Other/
-│       ├── classification.ipynb
-│       ├── clustering.ipynb
-│       ├── regression.ipynb
-│       └── ...
+│   ├── classification_4.ipynb
+│   └── regression_1.ipynb
 │
 ├── requirements.txt
 ├── .gitignore
 └── README.md
-```
 
 ## ⚙️ Technologies Used
 
