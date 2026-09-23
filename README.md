@@ -180,9 +180,9 @@ This project is developed as a collaborative academic project.
 
 ### Contributors
 
+* Amritha 
+* Sribalan
 * Suvakkeen Manoj
-* Team Member 2
-* Team Member 3
 
 > Update the contributor names and GitHub profiles according to your team members.
 
